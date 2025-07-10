@@ -25,7 +25,7 @@ Relightable3DGaussian
     |   ├── A_main_URA_dataloader.m
     |   ├── ...
     ├── data_2URA_sharing
-    |   ├── data_dtu
+    |   ├── dataset
     │   │── A_main_2URA_dataloader.m
     │   │── ...
 ```
