@@ -12,7 +12,7 @@ All data were collected under controlled settings with known ground truth positi
 
 ### Data preparation
 #### WICAL Dataset
-Download the dataset from [LINK](https://drive.google.com/drive/folders/1JDdLGDruGNXWnM1eqY1FNL9PlStjaKWi?usp=drive_link).
+Download the dataset from [LINK]([https://drive.google.com/drive/folders/1JDdLGDruGNXWnM1eqY1FNL9PlStjaKWi?usp=drive_link](https://drive.google.com/file/d/1F0oEb3BHpQB7VV8JXqczlZU4rPlaC8pQ/view?usp=drive_link)).
 
 
 #### Data Structure
