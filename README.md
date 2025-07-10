@@ -30,6 +30,10 @@ Relightable3DGaussian
     │   │── ...
 ```
 
+### Running
+We ran A_main_xURA_dataloader.m in MATLAB 2023a without any issues.
+
+
 
 
 
