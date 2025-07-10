@@ -10,8 +10,25 @@ CSI measurements jointly captured from two spatially separated URAs. These data 
 
 All data were collected under controlled settings with known ground truth positions and synchronized switching sequences. The dataset is structured to support easy parsing and integration with custom signal processing pipelines.
 
+### Data preparation
+#### WICAL Dataset
+Download the dataset from [LINK](https://drive.google.com/drive/folders/1JDdLGDruGNXWnM1eqY1FNL9PlStjaKWi?usp=drive_link).
 
 
+#### Data Structure
+We organize the datasets like this:
+```
+Relightable3DGaussian
+├── datasets
+    ├── data_URA_sharing
+    |   ├── dataset
+    |   ├── A_main_URA_dataloader.m
+    |   ├── ...
+    ├── data_2URA_sharing
+    |   ├── data_dtu
+    │   │── A_main_2URA_dataloader.m
+    │   │── ...
+```
 
 
 
