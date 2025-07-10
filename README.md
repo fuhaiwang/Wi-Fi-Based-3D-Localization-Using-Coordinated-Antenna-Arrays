@@ -1,4 +1,4 @@
-# Wi-Fi-Based-3D-Localization-Using-Coordinated-Antenna-Arrays
+# Wi-Fi-Based 3D Localization Using Coordinated Antenna Arrays
 
 This repository provides Channel State Information (CSI) datasets collected using RF-switch-based multiplexing of multiple RF chains. The data were acquired for wireless sensing tasks using antenna array configurations and are categorized into two types:
 
