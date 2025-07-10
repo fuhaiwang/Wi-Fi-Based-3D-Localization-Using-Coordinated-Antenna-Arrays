@@ -11,7 +11,7 @@ CSI measurements jointly captured from two spatially separated URAs. These data 
 All data were collected under controlled settings with known ground truth positions and synchronized switching sequences. The dataset is structured to support easy parsing and integration with custom signal processing pipelines.
 
 ### Data preparation
-#### WICAL Dataset
+#### WiCAL Dataset
 Download the dataset from [LINK](https://drive.google.com/file/d/1F0oEb3BHpQB7VV8JXqczlZU4rPlaC8pQ/view?usp=drive_link).
 
 
